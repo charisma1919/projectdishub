@@ -14,3 +14,5 @@ Silahkan di edit sesuai dengan jobdesk yang ada di bawah ini.
 
   Password archive dari file RAR yang sudah disertakan bisa ditanyakan ke mas luckas.
   Password login administrator juga ada di mas Luckas
+  clone projek ini melalui GIT
+  git clone https://github.com/charisma1919/projectdishub.git
