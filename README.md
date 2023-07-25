@@ -1,4 +1,7 @@
 # projectdishub
+![Tampilan aplikasi dishub](tampilan.png?raw=true "tampilan aplikasi")
+
+
 Silahkan di edit sesuai dengan jobdesk yang ada di bawah ini.
 1. Gunakan OS Windows 10 atau 11 dengan arch 64 Bit atau OS Linux 64 bit yang setara.
 2. Aplikasi server cukup menggunakan XAMPP Apache Server namun pilih versi terbaru dengan versi PHP 7.xx ke atas.
