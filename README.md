@@ -9,7 +9,8 @@ Silahkan di edit sesuai dengan jobdesk yang ada di bawah ini.
 4. Buat folder baru di htdocs dengan nama terserah.
 5. Jangan lupa berikan halaman tambahan untuk Team Kalian (halaman yang berisi nama team, pembimbing dll).
 6. Jika ada pertanyaan langsung buka ISSUE di repository ini. Pastikan sudah punya akun github
-7. Edit CSS dan Layoutnya agar menjadi lebih menarik dan bagus dengan aturan sebagai berikut.
+7. Jangan lupa buatkan nama untuk aplikasi ini, jika mas luckas setuju, nanti dipakai deh
+8. Edit CSS dan Layoutnya agar menjadi lebih menarik dan bagus dengan aturan sebagai berikut.
 
    - Tidak menggunakan CSS Responsive seperti @media (min-width: blablabla karena akan merusak tampilan PDF dari gen.php
    - Tidak mengganti name, Id dan value dari setiap tag HTML agar $GET dan $Post tidak kacau
